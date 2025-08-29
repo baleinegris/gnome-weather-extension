@@ -1,0 +1,14 @@
+{
+    "description": "A GNOME Shell weather widget",
+    "name": "gnome-weather-extension",
+    "shell-version": [
+        "44",
+        "45",
+        "46",
+        "47",
+        "48"
+    ],
+    "url": "",
+    "uuid": "gnome-weather-extension@baleinegris",
+    "version": 1
+}
